@@ -1,7 +1,7 @@
 ##guess the number
 
 import random
-total=2
+total=10
 sub=1
 while True:
     num=int(input("Guess a number from 1 to 10 If you can :"))
